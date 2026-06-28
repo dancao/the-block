@@ -1,7 +1,5 @@
-﻿using Microsoft.EntityFrameworkCore;
-using MockQueryable.Moq;
+﻿using MockQueryable.Moq;
 using Moq;
-using theblock_apis.Commons;
 using theblock_apis.Data;
 using theblock_apis.Entities;
 using theblock_apis.Services;
