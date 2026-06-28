@@ -1,0 +1,6 @@
+<Solution>
+  <Folder Name="/UnitTests/">
+    <Project Path="theblock-apis.UnitTest/theblock-apis.UnitTest.csproj" />
+  </Folder>
+  <Project Path="theblock-apis/theblock-apis.csproj" />
+</Solution>
