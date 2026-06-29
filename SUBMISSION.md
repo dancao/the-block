@@ -16,7 +16,7 @@ I have spent around 12 hours on the backend, Front end, + Unit Testing
 
 ## Stack
 
-- **Frontend:** Vite+React
+- **Frontend:** Vite+React+TailwindCSS
 - **Backend:** Net Core 8.0 API + EF Core + MSTest
 - **Database:** SQLite + import data from vehicles.json
 
